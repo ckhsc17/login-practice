@@ -1,0 +1,30 @@
+{
+  "name": "login-practice",
+  "version": "21.5.0",
+  "description": "this is a side project to implement a login system",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckhsc17/login-practice.git"
+  },
+  "author": "bowen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckhsc17/login-practice/issues"
+  },
+  "homepage": "https://github.com/ckhsc17/login-practice#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql": "^2.18.1"
+  }
+}
